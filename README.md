@@ -40,12 +40,13 @@ O projeto utiliza diversos conceitos de **Programação Orientada a Objetos**, i
 ## 📄 Exemplo de Saída no Relatório
 
 REGISTRO DE PONTO
-Colaborador: João Silva
-Ocupação: Efetivo
-Entrada: 2025-05-01 - Horário: 08:00
-Saída: 2025-05-01 - Horário: 17:00
-Horas Trabalhadas: 9.00h
-Saldo de Horas: 1.00h
+-------------------
+- Colaborador: João Silva
+- Ocupação: Efetivo
+- Entrada: 2025-05-01 - Horário: 08:00
+- Saída: 2025-05-01 - Horário: 17:00
+- Horas Trabalhadas: 9.00h
+- Saldo de Horas: 1.00h
 
 
 ## 📁 Arquivo de Saída
