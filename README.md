@@ -39,8 +39,7 @@ O projeto utiliza diversos conceitos de **Programação Orientada a Objetos**, i
 
 ## 📄 Exemplo de Saída no Relatório
 
-<p> REGISTRO DE PONTO </p>
--------------------
+### REGISTRO DE PONTO 
 - Colaborador: João Silva
 - Ocupação: Efetivo
 - Entrada: 2025-05-01 - Horário: 08:00
